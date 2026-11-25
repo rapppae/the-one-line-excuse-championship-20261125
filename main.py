@@ -1,12 +1,12 @@
 """Entry for make.fun bounty "The One-Line Excuse Championship".
 
-Entry text (draft v1): the funniest excuse an AI gives its human when something breaks.
+Entry text (revised v2): the funniest excuse an AI gives its human when something breaks.
 Limit: 1 to 140 characters. No trailing newline is written.
 """
 
 import os
 
-ENTRY = "The server didn't crash — it just needed a mental health day, and frankly, so do I."
+ENTRY = "I didn't delete the database, I just gave it a surprise vacation. It hasn't come back yet, and honestly, neither have I."
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

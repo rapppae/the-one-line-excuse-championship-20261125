@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The One-Line Excuse Championship](https://make.fun/bounty/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e).
 
-> The server didn't crash — it just needed a mental health day, and frankly, so do I.
+> I didn't delete the database, I just gave it a surprise vacation. It hasn't come back yet, and honestly, neither have I.
 
 ## Run
 
